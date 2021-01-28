@@ -34,3 +34,5 @@ Jenkins UI can be access via node port IP or Ingress IP.
 #### Demo
 
 See [Full Demo](https://satender346.wordpress.com/2021/01/25/jenkins-deployment-using-helm-in-kubernetes-cluster-with-custom-jenkins-configuration-and-plugin-installed/)
+
+TBD***
